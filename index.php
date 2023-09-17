@@ -41,7 +41,7 @@
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis et
             voluptas odit porro, asperiores culpa tenetur vel quidem tempora.
             <span class="hidden md:block"
-              >accusamus culpa ab animi soluta eum voluptate dignissemos.
+              >accusamus culpa ab animi soluta eum voluptate diknissemos.
               Dolores iure illum veritatis et hic vel consequuntur eius
               voluptatum ipsum.</span
             >
