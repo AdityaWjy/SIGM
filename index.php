@@ -39,9 +39,9 @@
           </h1>
           <p class="w-80 md:w-auto md:mt-2 text-gray-700 md:text-xl">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis et
-            voluptas odit porro, asperiores culpa tenetur vel quidem tempore.
+            voluptas odit porro, asperiores culpa tenetur vel quidem tempora.
             <span class="hidden md:block"
-              >accusamus culpa ab animi soluta eum voluptate dignissimos.
+              >accusamus culpa ab animi soluta eum voluptate dignissemos.
               Dolores iure illum veritatis et hic vel consequuntur eius
               voluptatum ipsum.</span
             >
